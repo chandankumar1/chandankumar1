@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am *Chandan Kumar* fron New Delhi, India
 
 - 🔭 I’m currently working on embedded systems
 - 🌱 I’m currently learning embedded linux
