@@ -17,5 +17,9 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Programming AVR micro controller using Atmel Studio 7](https://funwidelectronics.blogspot.com/2020/06/programming-avr-micro-controoler-using.html)
+- [Morris Garage car event at JW Marriott, Delhi](https://funwidelectronics.blogspot.com/2019/04/morris-garage-car-event-at-delhi.html)
+- [Arduino python GUI led control](https://funwidelectronics.blogspot.com/2018/05/arduino-python-gui-led-control.html)
+- [How to load hex file into AT89S52](https://funwidelectronics.blogspot.com/2018/04/how-to-load-hex-file-into-at89s52.html)
 <!-- BLOG-POST-LIST:END -->
 
