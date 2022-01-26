@@ -9,3 +9,8 @@
 
 • [Linkedin](https://in.linkedin.com/in/chandankmr02) • [Blog](http://funwidelectronics.blogspot.com/) • [YouTube](https://www.youtube.com/c/Funwithelectronics/)
 
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
