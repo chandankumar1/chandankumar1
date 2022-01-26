@@ -1,5 +1,5 @@
-### Hi there 👋, I am **Chandan Kumar** from New Delhi, India
-### To learn something everyday
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### I am **Chandan Kumar** from New Delhi, India
 
 
 - 🔭 I’m currently working on embedded systems
@@ -9,8 +9,8 @@
 
 • [Linkedin](https://in.linkedin.com/in/chandankmr02) • [Blog](http://funwidelectronics.blogspot.com/) • [YouTube](https://www.youtube.com/c/Funwithelectronics/)
 
-📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
+## 📕 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
