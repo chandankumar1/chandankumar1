@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on embedded systems
 - 🌱 I’m currently learning embedded linux
 - 👯 I’m looking for collaboration on embedded and IoT projects
-- 📫 How to reach me: [chandan90420@gmail.com](mailto:chandan90420@gmail.com)
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
