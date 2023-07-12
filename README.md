@@ -8,7 +8,6 @@
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://linkedin.com/in/chandankmr02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandankumar1" height="30" width="40" /></a>  
 <a href="https://www.youtube.com/c/Funwithelectronics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chandankumar1" height="30" width="40" /></a>  
 <a href="https://funwidelectronics.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="chandankumar1" height="30" width="40" /></a>
 </p>  
